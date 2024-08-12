@@ -1,6 +1,6 @@
 # 🏊 Jason Wrzesien
 
-**`Entrepreneur (Development/Leadership/Marketing)`**
+**`Entrepreneur (Software Development/Leadership/Marketing)`**
 
 I'm a Computer Science student at the Georgia Institute of Technology specializing in Cyber Security and Information Internetworks. With a solid academic foundation and hands-on experience, I am proficient in a variety of programming languages and in my free time, I enjoy working through complex programming problems online and learning new languages. Using my expertise in ReactJS and Java, I co-founded a startup called Quuri which is a web application used as a platform for researchers to network, collaborate and publicize research.
 
