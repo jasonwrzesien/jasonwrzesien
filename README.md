@@ -11,8 +11,8 @@ I'm a Computer Science student at the Georgia Institute of Technology specializi
         <img alt="Followers" src="https://custom-icon-badges.demolab.com/github/followers/jasonwrzesien?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     <a href="mailto: jason.wrzesien@icloud.com">
         <img alt="Email" src="https://custom-icon-badges.demolab.com/badge/-jason.wrzesien@icloud.com-red?style=for-the-badge&logo=mention&logoColor=white"/></a>
-    <a>
-        <img alt="Phone Number" src="https://custom-icon-badges.demolab.com/badge/-770--742--1701-orange?style=for-the-badge&logo=phone&logoColor=white"/></a>
+    <div>
+        <img alt="Phone Number" src="https://custom-icon-badges.demolab.com/badge/-770--742--1701-orange?style=for-the-badge&logo=phone&logoColor=white"/></div>
 </p>
 
 ---
