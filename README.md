@@ -6,7 +6,7 @@ I'm a Computer Science student at the Georgia Institute of Technology specializi
 
 <p align="left">
     <a href="https://github.com/jasonwrzesien?tab=repositories">
-        <img alt="My Repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a> 
+        <img alt="My Repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
     <a href="https://github.com/jasonwrzesien?tab=followers">
         <img alt="Followers" src="https://custom-icon-badges.demolab.com/github/followers/jasonwrzesien?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     <a href="mailto: jason.wrzesien@icloud.com">
