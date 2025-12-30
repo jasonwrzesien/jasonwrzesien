@@ -40,7 +40,7 @@ I'm a Computer Science student at the Georgia Institute of Technology specializi
 
 ### 📊 Stats
 
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonwrzesien&show_icons=true&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jasonwrzesien&show_icons=true&theme=gruvbox)
 
 [linkedin]: https://www.linkedin.com/in/jason-wrzesien/
 [website]: https://quuri.com/about
