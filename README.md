@@ -43,7 +43,6 @@ Outside of academics, I enjoy a wide range of hobbies, but the one I am most pro
 ### 📊 Stats
 
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasonwrzesien&theme=gruvbox)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jasonwrzesien&theme=gruvbox)
 
 [linkedin]: https://www.linkedin.com/in/jason-wrzesien/
 [website]: https://quuri.com/about
